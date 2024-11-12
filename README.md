@@ -75,7 +75,8 @@ docker tag javascript-hola-mundo <tu-usuario>/javascript-hola-mundo:latest
 ```bash
 docker push <tu-usuario>/javascript-hola-mundo:latest
 ```
-
+## URL Docker Hub
+https://hub.docker.com/repository/docker/john2713/hola-mundo-js/general
 ## Desarrollo
 
 ### Prerrequisitos
@@ -93,12 +94,6 @@ docker push <tu-usuario>/javascript-hola-mundo:latest
 - El Dockerfile está optimizado para un despliegue mínimo
 - Se utiliza la versión LTS de Node.js para mayor estabilidad
 
-## Contribuir
-1. Haz fork del proyecto
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`)
-3. Haz commit de tus cambios (`git commit -am 'Agrega nueva característica'`)
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`)
-5. Crea un Pull Request
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
